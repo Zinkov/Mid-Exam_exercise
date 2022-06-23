@@ -21,4 +21,4 @@ while True:
     else:
         print(f'Not enough energy! Game ends with {won_battle_counter} won battles and {energy} energy')
         break
-        # new comment for test
+        # new comment for test2
