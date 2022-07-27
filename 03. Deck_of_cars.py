@@ -1,4 +1,4 @@
-
+# Някъде има грешка. Изкарва 80/100 точки. предполагам, че е в командата Insert
 def indexExists(list, index):
     if 0 <= int(index) < len(list):
         return True
